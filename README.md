@@ -1,6 +1,6 @@
 # Flick-ADA: Flickity ADA Compliance Patch
 
-A lightweight JavaScript solution to ensure [Flickity](https://flickity.metafizzy.co/) carousels are fully compliant with ADA accessibility standards by preventing focus on hidden/non-visible slides.
+A lightweight JavaScript solution to ensure [Flickity](https://flickity.metafizzy.co/) carousels are more compliant with ADA accessibility standards by preventing focus on hidden/non-visible slides.
 
 ## Problem
 
