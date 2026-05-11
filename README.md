@@ -51,27 +51,6 @@ wp_enqueue_script(
 
 **Important**: Ensure Flickity is loaded first.
 
-## Usage
-
-Include the script after Flickity initialization:
-
-```html
-<div class="flickity-slider">
-  <div class="carousel-cell">Slide 1</div>
-  <div class="carousel-cell">Slide 2</div>
-  <div class="carousel-cell">Slide 3</div>
-</div>
-
-<script src="flickity.pkgd.min.js"></script>
-<script src="flick-ada.js"></script>
-<script>
-  $(".flickity-slider").flickity({
-    cellAlign: "left",
-    draggable: true,
-    wrapAround: false,
-  });
-</script>
-```
 
 The patch automatically activates on `DOMContentLoaded` and requires no additional configuration.
 
