@@ -1,6 +1,6 @@
 # Flickity ADA Assist
 
-`flick-ada.js` is a small accessibility helper for Flickity carousels.
+`flick-ada.js` is a small accessibility helper for Flickity carousels. WCAG.
 It ensures that hidden slides and their interactive content are not keyboard-focusable,
 helping prevent users from tabbing into off-screen carousel elements. Flickity v2.2.1 initial build. 
 
