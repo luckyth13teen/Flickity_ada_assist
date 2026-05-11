@@ -214,18 +214,6 @@ Run accessibility audits with:
 - **Lighthouse**: Built into Chrome DevTools
 - **NVDA/JAWS**: Screen reader testing
 
-## License
-
-[Add your license here - MIT, GPL, etc.]
-
-## Changelog
-
-### v1.0.0 (2026-05-11)
-
-- Initial release
-- Full ADA compliance for Flickity v2.0+
-- Support for dynamic slide changes
-- Comprehensive focus management
 
 ## Support
 
