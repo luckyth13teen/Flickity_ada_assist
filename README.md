@@ -2,7 +2,7 @@
 
 `flick-ada.js` is a small accessibility helper for Flickity carousels.
 It ensures that hidden slides and their interactive content are not keyboard-focusable,
-helping prevent users from tabbing into off-screen carousel elements.
+helping prevent users from tabbing into off-screen carousel elements. Flickity v2.2.1 initial build. 
 
 ## What it does
 
