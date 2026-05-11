@@ -26,12 +26,6 @@ Flick-ADA automatically:
 
 ## Installation
 
-### Via NPM
-
-```bash
-npm install flick-ada
-```
-
 ### Manual
 
 Download `flick-ada.js` and include it in your project:
